@@ -1,8 +1,28 @@
+/* HEADER */
 
+/* Header Title */
 .bg {
     background-color: black;
 }
 
 .bg img {
     width: 75px;
+}
+
+/* Header navigation */
+
+.color ul li a {
+    font-size: .9rem;
+} 
+
+.color .navbar-nav a.color-link {
+    color: black;
+}
+
+.d-flex i, a {
+    align-self: center;
+}
+
+.navbar-nav li i {
+    font-size: 8px;
 }
