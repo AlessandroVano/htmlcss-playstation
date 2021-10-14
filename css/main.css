@@ -23,7 +23,7 @@ h1 {
     border-radius: 30px;
     font-size: 12px;
 }
-.btn-danger {
+.btn-danger, .btn-primary {
     border-radius: 30px;
 }
 
