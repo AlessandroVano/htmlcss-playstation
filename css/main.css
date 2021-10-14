@@ -1,17 +1,22 @@
-/* HEADER */
-
 
 /* UTILITY */
 
-/* fonts */
+
+/* font-family */
 header {
     font-family:Helvetica;
 }
 main {
     font-family: Arial;
+    
 }
-/* Button  */
 
+/* Font-size */
+h1 {
+    font-size: 2rem;
+}
+
+/* Button  */
 .site-btn-primary {
     color: white;
     background-color: black;
@@ -22,7 +27,7 @@ main {
     border-radius: 30px;
 }
 
-
+/* HEADER */
 
 /* Header Title */
 .bg {
@@ -88,3 +93,8 @@ main {
     object-fit: contain;
     border-radius: 10px;
 } 
+/* Section solo text */
+
+.text-primary {
+    font-size: .8rem;
+}
