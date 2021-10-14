@@ -3,6 +3,13 @@
 
 /* UTILITY */
 
+/* fonts */
+header {
+    font-family:Helvetica;
+}
+main {
+    font-family: Arial;
+}
 /* Button  */
 
 .site-btn-primary {
