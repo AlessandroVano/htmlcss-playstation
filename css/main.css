@@ -29,6 +29,11 @@ h3{
 .btn-danger, .btn-primary {
     border-radius: 30px;
 }
+.button-pers {
+    padding: 7px;
+    border-radius: 20px;
+    background-color: rgb(224, 218, 218);
+}
 
 /* HEADER */
 
@@ -73,7 +78,7 @@ nav {
 
 /* MAIN SECTION */
 
-/* Background hero main*/
+/*BACKGROUND HERO MAIN*/
  .bg-hero {
     background-image: url(../css/img/jumbo-bg.png);
     max-width: 100%;
@@ -89,7 +94,7 @@ nav {
     margin-top: 255px;
 } 
 
-/* Section imgs */
+/* SECTION IMMAGINI RETURNAL/ RATCHET CLANK */
 
  .block-1 {
     max-height: 160px;
@@ -100,17 +105,18 @@ nav {
     object-fit: contain;
     border-radius: 10px;
 } 
-/* Section solo text */
+/* SEZIONE TESTO PLAYSTATION 5 */
 
 .text-primary {
     font-size: .8rem;
 }
 
-/* sezione immagini */
+/* SEZIONE PLAYSTATION 5 */
 
-.row .text {
+/* sezione immagini */
+ .row .text {
     align-self: center;
-}
+} 
 
 .block-2 img {
     width: 100%;
@@ -123,7 +129,7 @@ nav {
     border-radius: 20px;
 }
  
-/* sezione its take two */
+/*  SECTION ITS TAKE TWO */
 .bg-hero-2 {
     background-image: url(../css/img/it-takes-two-hero-banner-desktop.jpg);
     max-width: 100%;
@@ -137,7 +143,7 @@ nav {
     margin-top: 55px;
 } 
 
-/* sezione crash / Tony hawk's */
+/* SECTION CRASH / TONY HAWK'S  */
 .bg-3 {
     background-color: rgb(46, 46, 46);
     height: 100%;
@@ -146,7 +152,7 @@ nav {
     padding-bottom: 50px;
 }
 
-/* sezione playstation plus */
+/* SEZIONE PLAYSTATION PLUS */
 .bg-playstation-plus {
     background-color: rgb(185, 185, 185);
     margin-top: 100px;
@@ -155,23 +161,19 @@ nav {
 .text img {
     width: 250px;
 }
-.button-pers {
-    padding: 7px;
-    border-radius: 20px;
-    background-color: rgb(224, 218, 218);
-}
+
 .blu {
     color: rgb(84, 84, 243);
 }
 
-/* sezione playstation now */
+/* SEIONE PLAYSTATION NOW */
 .bg-playstation-now {
     background-color: rgb(42, 47, 107);
     margin-top: 100px;
     color:white
 }
 
-/* sezione social media */
+/* SEZIONE SOCIAL MEDIA */
 .mw_container {
     max-width: 450px;
 }
@@ -180,18 +182,22 @@ nav {
    width:100%
 }
 /* FOOTER */
+
+/* sfondo footer */
 .bg-footer {
     background-color: rgb(22, 22, 236);
     width: 100%;
     height: 100%;
     color: white;
 }
+/* sezione logo + regione */
 .ps-footer {
     width: 100px;
 }
 .sie-logo {
     width: 100px;
 }
+/* sezione liste */
  div ul li {
     list-style: none;
 }
