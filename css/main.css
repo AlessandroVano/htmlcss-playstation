@@ -32,7 +32,15 @@ h3{
 .button-pers {
     padding: 7px;
     border-radius: 20px;
-    background-color: rgb(224, 218, 218);
+    background-color:rgb(224, 218, 218) ;
+}
+.bg_button {
+    background-color:rgb(252, 247, 247) ;
+    color: blue;
+    border-radius: 20px;
+} 
+.bg_button:hover {
+    color: blue;
 }
 
 /* HEADER */
